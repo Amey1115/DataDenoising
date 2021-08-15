@@ -18,6 +18,9 @@ to exterminate noises from our dataset.
 
 # PreRequisites
 <br>
+  </b>
+• <a href="https://jupyter.org/">Jupyter Notebook</a>
+<br>
 <br>
 # Software
   <br>

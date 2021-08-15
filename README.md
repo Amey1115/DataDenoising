@@ -19,7 +19,7 @@ to exterminate noises from our dataset.
 # PreRequisites
 <br>
   </b>
-• <a href="https://www.python.org/">Jupyter Notebook</a>
+• <a href="https://www.python.org/">Python</a>
 <br>
 <br>
 # Software

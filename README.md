@@ -17,7 +17,7 @@ to exterminate noises from our dataset.
 </ul>
 
 # PreRequisites
-<br>
+
   </b>
 • <a href="https://www.python.org/">Python</a>
 <br>

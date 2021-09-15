@@ -12,8 +12,8 @@ to exterminate noises from our dataset.
 
 # Teammembers
 <ul>
+<li><a href="https://www.linkedin.com/in/amey-bayas-b82ba2218/">Amey Bayas</a></li>  
 <li><a href="https://www.linkedin.com/in/pratik-lonari-308135210/">Pratik Lonari</a></li>
-<li><a href="https://www.linkedin.com/in/amey-bayas-b82ba2218/">Amey Bayas</a></li>
 </ul>
 
 # PreRequisites

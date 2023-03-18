@@ -1,6 +1,4 @@
 # DataDeNoising
-#</b>DataDenoising</b>
-<br>
 <br>
 
 # Abstract
